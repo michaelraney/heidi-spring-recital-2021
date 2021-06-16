@@ -14,18 +14,15 @@ Welcome to our Spring Recital!
 
 {% include youtubePlayer.html id="78HrnLiHxkc" %}
 
-
 ## Theodore Sawyer
 > Theodore Sawyer is playing Five Little Ducks (Traditional)
 
 {% include youtubePlayer.html id="zdU8ADKWVVM" %}
 
-
 ## Ashley
 > Ashley Raney is playing Let it Go (Frozen) by Kristen Anderson-Lopez and Robert Lopez
 
 {% include youtubePlayer.html id="XDcRAAEOViM" %}
-
 
 ## Theo Reid
 > Theo Reid is playing Someone You Loved by Lewis Capaldi
@@ -41,16 +38,6 @@ Welcome to our Spring Recital!
 > Aitan Katz is playing Layla by Eric Clapton and Jim Gordon
 
 {% include youtubePlayer.html id="MOjTyExFBJE" %}
-
-## Devin
-> Devin Weeda is playing Boulevard of Broken Dreams by Green Day
-
-{% include youtubePlayer.html id="99xX1Y7LnC8" %}
-
-## Loghan
-> Loghan Weeda is playing Pachelbel’s Canon by Johann Pachelbel
-
-{% include youtubePlayer.html id="MAeE8Id4KXc" %}
 
 ## Willem
 > Willem Pohl is playing Exile by Taylor Swift
@@ -71,11 +58,6 @@ Welcome to our Spring Recital!
 > Nathan Diamond is playing An Old Romance by Stephen Heller
 
 {% include youtubePlayer.html id="yxFowos8o_4" %}
-
-## Chaz
-> Chaz Webber is playing the Mandalorian Theme Song by Ludwig Goransson
-
-{% include youtubePlayer.html id="anNvQ0yqwHQ" %}
 
 ## Gavin
 > Gavin Heydt is playing Gole Goldoon by Simin Ghanem
