@@ -4,10 +4,22 @@ Welcome to our Spring Recital!
 
 {% include youtubePlayer.html id="lJ4zzS5WOZg" %}
 
+## Mira
+> Mira Katz is playing Mary Had A Little Lamb (Traditional)
+
+{% include youtubePlayer.html id="i6LoVTj_t3E" %}
+
 ## Julian
 > Julian Liano is playing The Wild Horses (Traditional)
 
 {% include youtubePlayer.html id="78HrnLiHxkc" %}
+
+
+## Theodore Sawyer
+> Theodore Sawyer is playing Five Little Ducks (Traditional)
+
+{% include youtubePlayer.html id="zdU8ADKWVVM" %}
+
 
 ## Ashley
 > Ashley Raney is playing Let it Go (Frozen) by Kristen Anderson-Lopez and Robert Lopez
@@ -21,9 +33,9 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="UxBzG40o-3M" %}
 
 ## Madeleine
-> Madeleine Sawyer is playing and singing Rainbow Connection by The Muppets
+> Madeleine Sawyer is playing Imagine by John Lennon
 
-{% include youtubePlayer.html id="ozE3P01rB1k" %}
+{% include youtubePlayer.html id="qdL7yi5apgI" %}
 
 ## Aitan
 > Aitan Katz is playing Layla by Eric Clapton and Jim Gordon
@@ -111,6 +123,7 @@ z
 {% include youtubePlayer.html id="Waf-8E3gxAs" %}
 
 ## Theo Johnson
-> Theo Johnson is playing Prelude in C# Minor by Sergei Rachmaninoff
+> Theo Johnson is playing Fantaisie Impromptu by Frederic Chopin
 
-{% include youtubePlayer.html id="XNAU_oxtMBQ" %}
+{% include youtubePlayer.html id="4JOfIAyGzXo" %}
+
