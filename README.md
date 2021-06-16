@@ -9,6 +9,12 @@ Welcome to our Spring Recital!
 
 {% include youtubePlayer.html id="XDcRAAEOViM" %}
 
+## Theo Reid
+> Theo Reid is playing Someone You Loved by Lewis Capaldi
+
+{% include youtubePlayer.html id="UxBzG40o-3M" %}
+
+
 ## Madeleine
 > Madeleine Sawyer is playing and singing Rainbow Connection by The Muppets
 
@@ -70,9 +76,9 @@ z
 {% include youtubePlayer.html id="IOoAmqXQzIk" %}
 
 ## Coco
-> Coco Manjos is playing and singing Party Favor by Billie Eilish
+> Coco Manjos is singing and playing Young & Beautiful by Lana Del Rey
 
-{% include youtubePlayer.html id="Pq5oM7pkBiI" %}
+{% include youtubePlayer.html id="oNweHPNlIdY" %}
 
 ## Grace
 > Grace Webber is playing Country Dance by Ludwig van Beethoven
@@ -80,9 +86,9 @@ z
 {% include youtubePlayer.html id="RGCypzbIb2Q" %}
 
 ## Oona
-> Oona Girton-Marshall is playing and singing Meadowlark by Stephen Schwartz, from the musical The Baker’s Wife
+> Oona Girton-Marshall is singing and playing Disneyland from Smile by Marvin Hamlisch
 
-{% include youtubePlayer.html id="6KRkYogBz1k" %}
+{% include youtubePlayer.html id="5lZ8oJnwGzo" %}
 
 ## Nikita
 > Nikita Lohman is playing Desafinado by Antonio Carlos Jobim
@@ -99,7 +105,7 @@ z
 
 {% include youtubePlayer.html id="Waf-8E3gxAs" %}
 
-## Theo.
+## Theo Johnson
 > Theo Johnson is playing Prelude in C# Minor by Sergei Rachmaninoff
 
 {% include youtubePlayer.html id="XNAU_oxtMBQ" %}
