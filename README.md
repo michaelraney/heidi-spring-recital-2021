@@ -5,9 +5,9 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="lJ4zzS5WOZg" %}
 
 ## Ashley
-> Ashley Raney is playing The Ballad of Davy Jones, from Pirates of the Caribbean (in her first piano recital!)
+> Ashley Raney is playing Let it Go (Frozen) by Kristen Anderson-Lopez and Robert Lopez
 
-{% include youtubePlayer.html id="MA7rDWztDto" %}
+{% include youtubePlayer.html id="XDcRAAEOViM" %}
 
 ## Madeleine
 > Madeleine Sawyer is playing and singing Rainbow Connection by The Muppets
@@ -55,9 +55,9 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="anNvQ0yqwHQ" %}
 
 ## Gavin
-> Gavin Heydt is playing and singing Clouds by Zach Sobiech
+> Gavin Heydt is playing Gole Goldoon by Simin Ghanem
 
-{% include youtubePlayer.html id="-qyncySbUk8" %}
+{% include youtubePlayer.html id="dQdOKAduMfU" %}
 
 ## Anna
 > Anna Chamberlin is playing Exile by Taylor Swift
