@@ -15,9 +15,9 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="ozE3P01rB1k" %}
 
 ## Aitan
-> Aitan Katz is playing Something by The Beatles
+> Aitan Katz is playing Layla by Eric Clapton and Jim Gordon
 
-{% include youtubePlayer.html id="LBQFFA4Mubs" %}
+{% include youtubePlayer.html id="MOjTyExFBJE" %}
 
 ## Devin
 > Devin Weeda is playing Boulevard of Broken Dreams by Green Day
@@ -40,14 +40,14 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="AKaKm6YqkmU" %}
 
 ## Layla
-> Layla Heydt is playing and singing Edge Of Great from Julie and the Phantoms
+> Layla Heydt is singing and playing Ocean Eyes by Finneas
 
-{% include youtubePlayer.html id="fvDJ9Q9tF48" %}
+{% include youtubePlayer.html id="23cT2OtkF_k" %}
 
 ## Nathan
-> Nathan Diamond is playing Let’s Call the Whole Thing Off by George and Ira Gershwin
+> Nathan Diamond is playing An Old Romance by Stephen Heller
 
-{% include youtubePlayer.html id="92QpKAdIbGY" %}
+{% include youtubePlayer.html id="yxFowos8o_4" %}
 
 ## Chaz
 > Chaz Webber is playing the Mandalorian Theme Song by Ludwig Goransson
@@ -60,9 +60,9 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="dQdOKAduMfU" %}
 
 ## Anna
-> Anna Chamberlin is playing Exile by Taylor Swift
-
-{% include youtubePlayer.html id="KCyXvTuXtiI" %}
+> Anna Chamberlin is playing Deja Vu by Olivia Rodrigo & Jim Nigro
+z
+{% include youtubePlayer.html id="yrknSNc1D90" %}
 
 ## Sam
 > Sam McCrory is playing Life on Mars by David Bowie
