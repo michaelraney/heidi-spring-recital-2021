@@ -4,16 +4,21 @@ Welcome to our Spring Recital!
 
 {% include youtubePlayer.html id="lJ4zzS5WOZg" %}
 
+## Julian
+> Julian Liano is playing The Wild Horses (Traditional)
+
+{% include youtubePlayer.html id="78HrnLiHxkc" %}
+
 ## Ashley
 > Ashley Raney is playing Let it Go (Frozen) by Kristen Anderson-Lopez and Robert Lopez
 
 {% include youtubePlayer.html id="XDcRAAEOViM" %}
 
+
 ## Theo Reid
 > Theo Reid is playing Someone You Loved by Lewis Capaldi
 
 {% include youtubePlayer.html id="UxBzG40o-3M" %}
-
 
 ## Madeleine
 > Madeleine Sawyer is playing and singing Rainbow Connection by The Muppets
@@ -36,14 +41,14 @@ Welcome to our Spring Recital!
 {% include youtubePlayer.html id="MAeE8Id4KXc" %}
 
 ## Willem
-> Willem Pohl is playing Burn by Lin Manuel-Miranda, from the musical Hamilton
+> Willem Pohl is playing Exile by Taylor Swift
 
-{% include youtubePlayer.html id="WViw9vI78QA" %}
+{% include youtubePlayer.html id="tmJGUBafBxc" %}
 
 ## Joy
-> Joy Webber is playing and singing Wake Up from Julie and the Phantoms
+> Joy Webber is singing and playing Just Give Me A Reason by Pink
 
-{% include youtubePlayer.html id="AKaKm6YqkmU" %}
+{% include youtubePlayer.html id="u_a9bSZuBIU" %}
 
 ## Layla
 > Layla Heydt is singing and playing Ocean Eyes by Finneas
@@ -81,9 +86,9 @@ z
 {% include youtubePlayer.html id="oNweHPNlIdY" %}
 
 ## Grace
-> Grace Webber is playing Country Dance by Ludwig van Beethoven
+> Grace Webber is playing Fur Elise by Ludwig van Beethoven
 
-{% include youtubePlayer.html id="RGCypzbIb2Q" %}
+{% include youtubePlayer.html id="-9KPSJoB2Wk" %}
 
 ## Oona
 > Oona Girton-Marshall is singing and playing Disneyland from Smile by Marvin Hamlisch
