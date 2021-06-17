@@ -2,7 +2,9 @@
 
 Welcome to our Spring Recital!
 
-{% include youtubePlayer.html id="lJ4zzS5WOZg" %}
+<p align="center">
+{% include youtubePlayer.html id="UAoIxE0w4U0" %}
+</p>
 
 ## Mira
 > Mira Katz is playing Mary Had A Little Lamb (Traditional)
